@@ -6,7 +6,7 @@ hi, im Alexander 🔮.
 
 @@advanced programming student.@@
 + living in Lima, Peru.
-- 19 years old
+- 20 years old
 ! software development, web developer
 # 📖 software architecture
 ```
